@@ -10,4 +10,4 @@ Esse projeto como objetivo, uma calculadora capaz de realizar operações lógic
 #
 ![127 0 0 1_5500_index html (4)](https://user-images.githubusercontent.com/96561261/159125573-c31b9d1e-a1ff-4e97-9021-cf46aaceff99.png)
 
-## A ilustração acima, mostra como ficou o projeto final, calculadora simples e suas operações lógicas.
+#### A ilustração acima, mostra como ficou o projeto final, calculadora simples e suas operações lógicas.
