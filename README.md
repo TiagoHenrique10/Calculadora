@@ -3,7 +3,7 @@
 * Nesse projeto, foi desenvolvido uma calculadora utilizando as linguagens marcação HTML, estilização CSS e JavaScript.
 Esse projeto como objetivo, uma calculadora capaz de realizar operações lógicas simples como soma, subtração, multiplicação e divisão.
 
-## Oque foi aprendido
+## O que foi aprendido
 * Com o HTML foi elaboarado os primeiros passos inserindo table com tr e td e butom
 * No CSS criando as classes e estiizando trabalhando o padding, width, hover, zerando css.
 * E com o JavaScript realizou a chamada de funções, trabalahndo com querySelector, getElementbyID.
